@@ -29,5 +29,4 @@ function Hero({ onStar, onDownload, onReport, onReset }) {
       </div>
   );
 }
-
 export default Hero;
