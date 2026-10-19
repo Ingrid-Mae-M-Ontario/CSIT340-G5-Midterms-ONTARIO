@@ -6,5 +6,4 @@ function StatCard({ value, label }) {
         </div>
     );
 }
-
 export default StatCard;

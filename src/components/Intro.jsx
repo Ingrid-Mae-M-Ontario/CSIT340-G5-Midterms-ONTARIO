@@ -9,5 +9,4 @@ function Intro({ author = "Ingrid Mae M Ontario" }) {
     </header>
   );
 }
-
 export default Intro;

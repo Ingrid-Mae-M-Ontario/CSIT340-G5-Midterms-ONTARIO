@@ -15,5 +15,4 @@ function Stats({ stars, downloads, issues }) {
     </section>
   );
 }
-
 export default Stats;

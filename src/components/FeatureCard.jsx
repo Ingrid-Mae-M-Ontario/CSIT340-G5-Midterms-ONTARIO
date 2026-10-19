@@ -9,5 +9,4 @@ function FeatureCard({ tag , title, description }) {
     </article>
   );
 }
-
 export default FeatureCard;
